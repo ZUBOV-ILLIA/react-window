@@ -1,0 +1,18 @@
+{
+  "description": "Demo of react-window vertical FixedSizeList",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^16",
+    "react-dom": "^16",
+    "react-window": "^1"
+  },
+  "name": "react-window",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
